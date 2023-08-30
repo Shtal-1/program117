@@ -12,11 +12,6 @@ typedef struct node NODE;
 typedef struct node * PNODE;
 typedef struct node ** PPNODE;
 
-// Juna naw             Nawin naw
-// struct node              NODE
-// struct node *            PNODE
-// struct node **           PPNODE
-
 int main()
 {
     // Static memory allopcation
